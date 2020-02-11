@@ -36,8 +36,11 @@
 1. แบ่งเป็น 2 คอลัมน์ ดูในโทรศัพท์ยาก เพราะพอดูคอลัมน์แรกจบ ต้องเลื่อนกลับไปดูคอลัมน์สองอีกทีระหว่างเพลง
 
 [guitarthai](www.guitarthai.com)
+
 [dontaree](www.dontaree.com)
+
 [chordzaa](www.chordzaa.com)
+
 [musicatm](www.musicatm.com)
 
 **ข้อดี**
@@ -59,8 +62,11 @@
 3. มีระบบให้คะแนน
 
 [e-chords](www.e-chords.com)
+
 [chords-and-tabs](chords-and-tabs.net)
+
 [uberchord](www.uberchord.com)
+
 [azchords](www.azchords.com)
 
 ## ผลจากการวิเคราะห์เว็บที่ทำมาก่อน
