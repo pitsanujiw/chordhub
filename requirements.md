@@ -4,11 +4,9 @@
 
 เราเป็นคนเล่นกีต้าร์ แล้วเวลาเล่นต้องดูคอร์ด เว็บที่เข้าอยู่ก็มีไม่กี่เว็บ(เพลงไทย) เช่น ChordTabs DooChord GuitarThai แต่ละเว็บก็มีข้อดีข้อ ข้อเสีย แตกต่างกันไป เราอยากแก้ข้อเสียของแต่ละเว็บ แล้วนำข้อดีมารวมกัน หวังว่าจะเป็นทางเลือกให้ผู้เล่นกีต้าร์มือใหม่ หรือผู้เล่นกีต้าร์มืออาชีพหลาย ๆ คน
 
-## ปัญหาของแต่ละเว็บ
+## ปัญหาของแต่ละเว็บ(ไทย)
 
-### [chordtabs](www.chordtabs.in.th)
-
-เป็นที่นิยมมากที่สุด
+[chordtabs](www.chordtabs.in.th) เป็นที่นิยมมากที่สุด
 
 ข้อดี
 
@@ -26,9 +24,7 @@
 4. มีโฆษณากะพริบมากเกินไป
 5. แสดงผลได้คีย์เดียว คือคีย์ต้นฉบับ
 
-### [dochord](www.dochord.com)
-
-มาแรง
+[dochord](www.dochord.com) มาแรง
 
 **ข้อดี**
 
@@ -39,27 +35,37 @@
 
 1. แบ่งเป็น 2 คอลัมน์ ดูในโทรศัพท์ยาก เพราะพอดูคอลัมน์แรกจบ ต้องเลื่อนกลับไปดูคอลัมน์สองอีกทีระหว่างเพลง
 
-### [guitarthai](www.guitarthai.com)
-
-คล้าย chordtabs.in.th
-
-### [dontaree](www.dontaree.com)
-
-### [chordzaa](www.chordzaa.com)
-
-### [musicatm](www.musicatm.com)
+[guitarthai](www.guitarthai.com)
+[dontaree](www.dontaree.com)
+[chordzaa](www.chordzaa.com)
+[musicatm](www.musicatm.com)
 
 **ข้อดี**
 
 1. เปิดให้ผู้ใช้ส่งเวอร์ชั่นที่ตัวเองแกะไปให้ทีมงานได้ ทำให้ผู้ใช้คนอื่น ๆ มีคอร์ดหลายเวอร์ชั่นให้ดูในเพลงเดียว ไอเดียก็ไม่จำเป็นจะต้องมาจากทีมงานเพียงอย่างเดียว
 
-### [theguitarmag](www.theguitarmag.com)
+[theguitarmag](www.theguitarmag.com)
 
-### [chordtabguitar](www.chordtabguitar.com)
+[chordtabguitar](www.chordtabguitar.com)
 
-## วิเคราะห์เว็บอื่น ๆ
+## ปัญหาของแต่ละเว็บ(ต่างประเทศ)
 
-1. เกือบทุกเว็บใช้วิธีแสดงผลด้วยรูปภาพ
+[ultimate-guitar](www.tabs.ultimate-guitar.com)
+
+**ข้อดี**
+
+1. มีป๊อปอัพแสดงวิธีจับคอร์ด
+2. มีระบบแสดงความคิดเห็น
+3. มีระบบให้คะแนน
+
+[e-chords](www.e-chords.com)
+[chords-and-tabs](chords-and-tabs.net)
+[uberchord](www.uberchord.com)
+[azchords](www.azchords.com)
+
+## ผลจากการวิเคราะห์เว็บที่ทำมาก่อน
+
+1. เว็บของไทยเกือบทุกเว็บใช้วิธีแสดงผลด้วยรูปภาพ เพราะง่ายในการแสดงผลในทุกหน้าจอ(เนื้อหาไม่บิดเบี้ยว)
 
 ## กลุ่มเป้าหมาย
 
